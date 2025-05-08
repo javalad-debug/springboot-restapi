@@ -2,6 +2,8 @@
 
 To create a RESTful API with springboot is simple, you just need to create a spring MVC controller and you need to annotate it with  the @RestController annotation and within the controller we need to create a java method and we need to annotate it with an appropriate http annotation. For example the @GetMapping annotation.
 
+ref: springboot-rest-api\springboot-rest-api\src\main\java\net\javaguides\springboot\controller\HelloWorldController.java
+
 ## @GetMapping
 
 The @GetMapping annotation is used to handle http get requests
